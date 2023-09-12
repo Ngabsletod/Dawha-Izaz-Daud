@@ -1,0 +1,325 @@
+.frontend-developer {
+  position: absolute;
+  top: 103px;
+  left: 16px;
+  font-size: var(--section-title-size);
+  background: linear-gradient(135deg, #ff26b2, #851bd9 64.06%, #3f0fff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.hay-namaku-dawha {
+  position: absolute;
+  top: 133px;
+  left: 16px;
+  font-size: var(--job-title-size);
+  display: inline-block;
+  width: 342px;
+  height: 29px;
+}
+.about-me,
+.biodata,
+.projects,
+.skills {
+  position: absolute;
+  top: 254px;
+  left: 16px;
+  font-size: var(--section-title-size);
+}
+.biodata,
+.projects,
+.skills {
+  left: 374px;
+}
+.biodata,
+.projects {
+  top: 449px;
+  left: 379px;
+}
+.biodata {
+  top: 333px;
+  left: 374px;
+}
+.dawha-izaz-daud {
+  position: absolute;
+  top: 46px;
+  left: 16px;
+  font-size: 44px;
+}
+.avatar-platzi-1-icon {
+  position: absolute;
+  top: 62px;
+  left: 422px;
+  border-radius: 70px;
+  width: 125px;
+  height: 125px;
+  object-fit: cover;
+}
+.sd-n-2-karanganyar-smp-n-1-kal {
+  margin: 0;
+  padding-left: var(--padding-xs);
+}
+.sd-n-2-container {
+  position: absolute;
+  top: 17px;
+  left: 1px;
+  display: inline-block;
+  width: 341px;
+  height: 38px;
+}
+.sekolah {
+  position: relative;
+}
+.job-title-company {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--job-title-size);
+  color: var(--grey);
+  font-family: var(--description);
+}
+.group-child {
+  position: absolute;
+  top: 57.75px;
+  left: -0.25px;
+  border-top: 0.5px solid var(--grey);
+  box-sizing: border-box;
+  width: 342.5px;
+  height: 0.5px;
+}
+.sd-n-2-karanganyar-smp-n-1-kal-parent {
+  position: absolute;
+  top: 291px;
+  left: 16px;
+  width: 342px;
+  height: 58px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+}
+.html-css,
+.jorge-ossa-cv-child {
+  position: absolute;
+  top: 435.5px;
+  left: 374px;
+  width: 222px;
+  height: 0.5px;
+}
+.html-css {
+  top: 277px;
+  display: inline-block;
+  width: 225px;
+  height: 34px;
+}
+.desain-uiux-eatsuki {
+  margin-bottom: 0;
+}
+.desain-uiux-eatsuki-container {
+  position: absolute;
+  top: 17px;
+  left: 1px;
+  display: inline-block;
+  width: 341px;
+  height: 25px;
+}
+.group-item {
+  position: absolute;
+  top: 46.75px;
+  left: -0.25px;
+  border-top: 0.5px solid var(--grey);
+  box-sizing: border-box;
+  width: 342.5px;
+  height: 0.5px;
+}
+.desain-uiux-eatsuki-portofol-parent,
+.nama-dawha-container {
+  position: absolute;
+  top: 369px;
+  left: 16px;
+  width: 342px;
+  height: 47px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+}
+.nama-dawha-container {
+  top: 358px;
+  left: 374px;
+  display: inline-block;
+  width: 222px;
+  height: 78px;
+}
+.makan,
+.tidur-bermain-game-container {
+  position: absolute;
+  top: 17px;
+  left: 1px;
+  display: inline-block;
+  width: 82px;
+  height: 23px;
+}
+.makan {
+  left: 84px;
+}
+.tidur-bermain-game-parent {
+  position: absolute;
+  top: 436px;
+  left: 16px;
+  width: 342px;
+  height: 47px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+}
+.susu-telur-dadar-container {
+  position: absolute;
+  top: 17px;
+  left: 1px;
+  display: inline-block;
+  width: 341px;
+  height: 26px;
+}
+.susu-telur-dadar-parent {
+  position: absolute;
+  top: 506px;
+  left: 16px;
+  width: 342px;
+  height: 47px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+}
+.saya-berminat-menjadi {
+  position: absolute;
+  top: 17px;
+  left: 1px;
+  display: inline-block;
+  width: 341px;
+  height: 14px;
+}
+.job-title-company4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--job-title-size);
+  color: var(--grey);
+}
+.group-child1 {
+  position: absolute;
+  top: 46.75px;
+  left: 0.75px;
+  border-top: 0.5px solid var(--grey);
+  box-sizing: border-box;
+  width: 342.5px;
+  height: 0.5px;
+}
+.ge-king-adalah,
+.saya-berminat-menjadi-programm-parent {
+  position: absolute;
+  top: 576px;
+  left: 16px;
+  width: 343px;
+  height: 47px;
+}
+.ge-king-adalah {
+  top: 16px;
+  left: 0;
+  display: inline-block;
+  width: 222px;
+  height: 26px;
+}
+.ant-designlink-outlined-icon {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ge-king-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-12xs);
+  cursor: pointer;
+  font-size: var(--job-title-size);
+}
+.eatsuki-adalah-aplikasi-mobile-parent,
+.ge-king-adalah-website-booking-parent {
+  position: absolute;
+  top: 472px;
+  left: 379px;
+  width: 222px;
+  height: 42px;
+}
+.eatsuki-adalah-aplikasi-mobile-parent {
+  top: 523px;
+}
+.deviconfacebook,
+.skill-iconsinstagram {
+  position: absolute;
+  top: 600px;
+  left: 379px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.deviconfacebook {
+  left: 530px;
+}
+.dawha-id,
+.dawha-id1 {
+  position: absolute;
+  top: 604px;
+  left: 405px;
+  color: var(--color-black);
+  text-align: right;
+}
+.dawha-id1 {
+  top: 605px;
+  left: 556px;
+}
+.ant-designmail-outlined-group,
+.ant-designmail-outlined-parent {
+  position: absolute;
+  top: 176px;
+  left: 16px;
+  width: 129px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+  text-align: right;
+}
+.ant-designmail-outlined-group {
+  top: 195px;
+  left: 17px;
+}
+.jorge-ossa-cv,
+.tv-1 {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.jorge-ossa-cv {
+  position: absolute;
+  top: calc(50% - 344px);
+  left: calc(50% - 306px);
+  width: 612px;
+  height: 688px;
+}
+.tv-1 {
+  position: relative;
+  width: 100%;
+  height: 720px;
+  text-align: left;
+  font-size: var(--description-size);
+  color: var(--black);
+  font-family: var(--description);
+}

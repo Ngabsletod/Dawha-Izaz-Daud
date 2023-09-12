@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --description: "IBM Plex Sans";
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --description-size: 9px;
+  --job-title-size: 10px;
+  --section-title-size: 12px;
+
+  /* Colors */
+  --color-white: #fff;
+  --black: #222;
+  --color-black: #000;
+  --grey: #999;
+
+  /* Gaps */
+  --gap-11xs: 2px;
+  --gap-12xs: 1px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+}
